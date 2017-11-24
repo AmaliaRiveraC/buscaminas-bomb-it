@@ -1,0 +1,39 @@
+body {
+    text-align: center;
+}
+
+div {
+    border: solid 1px black;
+    text-align: center;
+    font-size: 40px;
+    height: 80px;
+    width: 80px;
+    display: table-cell;
+}
+
+#bomb-it {
+    margin-left: 37%;
+}
+
+button {
+    background-color: #000;
+    color: #fff;
+    font-size: 20px;
+    margin-top: 10px;
+    padding: 1%;
+    border: none;
+}
+
+img {
+    width: 350px;
+    margin: 2% 35%;
+}
+
+.number {
+    color: white;
+    margin: 0;
+}
+
+.number-show {
+    color: black;
+}
